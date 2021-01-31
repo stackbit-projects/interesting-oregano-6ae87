@@ -73,14 +73,7 @@ params:
         url: /privacy-policy
         style: link
     has_social: true
-    social_links:
-      - label: Vimeo
-        url: 'https://vimeo.com/'
-        style: link
-        has_icon: true
-        icon: vimeo
-        icon_position: center
-        new_window: true
+    social_links: []
     content: >-
       &copy; Stackbit. All rights reserved. This Jamstack site was created with
       <a href="https://www.stackbit.com/?utm_source=deployed-footer"
