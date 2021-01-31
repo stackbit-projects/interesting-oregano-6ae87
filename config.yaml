@@ -9,7 +9,7 @@ params:
   base_font: serif
   header:
     title: ''
-    logo_alt: DIY logo
+    logo_alt: ''
     has_primary_nav: false
     primary_nav_links:
       - label: Features
