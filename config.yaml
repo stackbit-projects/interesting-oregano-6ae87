@@ -42,7 +42,7 @@ params:
     anncmnt_id: new-features
   footer:
     logo_alt: ''
-    has_primary_nav: true
+    has_primary_nav: false
     primary_nav_title: Company
     primary_nav_links:
       - label: About
