@@ -75,8 +75,8 @@ params:
     has_social: true
     social_links: []
     content: >-
-      &copy; Nadazupancic.si. All rights reserved. This Jamstack site was
-      created with <a
+      &copy; Nadazupancic.si. All rights reserved. Ta spletna stran je bila
+      narejena s pomočjo <a
       href="https://www.stackbit.com/?utm_source=deployed-footer"
       target="_blank" rel="noopener">Stackbit</a>. Create yours <a
       href="https://app.stackbit.com/create?theme=diy&utm_source=deployed-footer"
